@@ -1,0 +1,20 @@
+body
+{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(215,255,43,1) 29%, rgba(180,11,74,1) 75%, rgba(133,227,246,1) 95%);
+}
+.heading
+{
+  width: 80%;
+  font-size: 22px;
+}
+#camera 
+{
+  border: 2px dashed rgb(51, 50, 50);
+  width: 350px;
+  height: 300px; 
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+{
+  color: yellow;
+}
